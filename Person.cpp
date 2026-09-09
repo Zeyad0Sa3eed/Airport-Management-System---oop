@@ -1,8 +1,5 @@
 #include "../include/Person.h"
 
-// ╔══════════════════════════════════════════════════╗
-// ║          Person Class - Implementation          ║
-// ╚══════════════════════════════════════════════════╝
 
 Person::Person() {
     name = "Unknown";
