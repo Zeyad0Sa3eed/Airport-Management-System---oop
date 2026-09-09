@@ -1,8 +1,5 @@
 #include "../include/Booking.h"
 
-// ╔══════════════════════════════════════════════════╗
-// ║         Booking Class - Implementation          ║
-// ╚══════════════════════════════════════════════════╝
 
 Booking::Booking() {
     bookingID     = 0;
