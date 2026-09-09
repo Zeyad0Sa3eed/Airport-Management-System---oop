@@ -1,8 +1,6 @@
 #include "../include/Passenger.h"
 
-// ╔══════════════════════════════════════════════════╗
-// ║        Passenger Class - Implementation         ║
-// ╚══════════════════════════════════════════════════╝
+
 
 Passenger::Passenger() : Person() {
     ticketNumber = 0;
