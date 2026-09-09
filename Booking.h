@@ -4,10 +4,7 @@
 #include "Passenger.h"
 #include "Flight.h"
 
-// ╔══════════════════════════════════════════════════╗
-// ║        CLASS : Booking (Passenger + Flight)     ║
-// ║  Responsible Team : Team 3                      ║
-// ╚══════════════════════════════════════════════════╝
+
 class Booking {
 private:
     int    bookingID;
