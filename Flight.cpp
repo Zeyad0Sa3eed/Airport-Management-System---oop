@@ -1,8 +1,6 @@
 #include "../include/Flight.h"
 
-// ╔══════════════════════════════════════════════════╗
-// ║          Flight Class - Implementation          ║
-// ╚══════════════════════════════════════════════════╝
+
 
 Flight::Flight() {
     flightID    = "N/A";
