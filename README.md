@@ -5,18 +5,7 @@
 
 ---
 
-## 👥 Team Members
 
-| # | Name | Role |
-|---|------|------|
-| 1 | _____________ | Team 1 — Person & Passenger |
-| 2 | _____________ | Team 1 — Person & Passenger |
-| 3 | _____________ | Team 2 — Flight Class |
-| 4 | _____________ | Team 2 — Flight Class |
-| 5 | _____________ | Team 3 — Booking & Main |
-| 6 | _____________ | Team 3 — Booking & Main |
-
----
 
 ## 📁 Project Structure
 
@@ -41,20 +30,6 @@ AirportManagementSystem/
 
 ---
 
-## ⚙️ How to Compile & Run
-
-```bash
-g++ -o AirportSystem src/main.cpp src/Person.cpp src/Passenger.cpp src/Flight.cpp src/Booking.cpp
-```
-
-Then run:
-
-```bash
-./AirportSystem          # Linux / Mac
-AirportSystem.exe        # Windows
-```
-
----
 
 ## 🗂️ Menu Options
 
