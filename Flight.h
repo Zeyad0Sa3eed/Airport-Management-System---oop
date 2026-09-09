@@ -5,10 +5,7 @@
 #include <string>
 using namespace std;
 
-// ╔══════════════════════════════════════════════════╗
-// ║                CLASS : Flight                   ║
-// ║  Responsible Team : Team 2                      ║
-// ╚══════════════════════════════════════════════════╝
+
 class Flight {
 private:
     string flightID;
