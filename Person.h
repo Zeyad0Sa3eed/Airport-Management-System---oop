@@ -5,10 +5,7 @@
 #include <string>
 using namespace std;
 
-// ╔══════════════════════════════════════════════════╗
-// ║            BASE CLASS : Person                  ║
-// ║  Responsible Team : Team 1                      ║
-// ╚══════════════════════════════════════════════════╝
+
 class Person {
 protected:
     string name;
