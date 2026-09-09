@@ -3,10 +3,7 @@
 
 #include "Person.h"
 
-// ╔══════════════════════════════════════════════════╗
-// ║       DERIVED CLASS : Passenger : Person        ║
-// ║  Responsible Team  : Team 1                     ║
-// ╚══════════════════════════════════════════════════╝
+
 class Passenger : public Person {
 private:
     int    ticketNumber;
