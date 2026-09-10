@@ -3,12 +3,8 @@
 #include "../include/Flight.h"
 #include "../include/Booking.h"
 
-// ╔══════════════════════════════════════════════════╗
-// ║          MAIN - Menu & Entry Point              ║
-// ║  Responsible Team : Team 3                      ║
-// ╚══════════════════════════════════════════════════╝
 
-// ---- Storage Constants ------------------------------
+
 const int MAX_FLIGHTS    = 50;
 const int MAX_PASSENGERS = 100;
 const int MAX_BOOKINGS   = 200;
